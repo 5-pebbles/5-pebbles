@@ -18,7 +18,7 @@ This profile is a work in progress...
 - Lua
 
 ### Traits
-- PCAD (Post Commit Anxiety Disorder)
+- PCAD [Post Commit Anxiety Disorder]
 <!--
 **5-pebbles/5-pebbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
