@@ -1,13 +1,12 @@
-### About Me
-This profile is a work in progress...
-
 ### Inventory
 - Linux
 - Neovim
+- Hurl
 - Docker
 
 ### Skills
 - Rust
+- Lua
 - Python
 - HTML/CSS
 - Shell Script
@@ -15,10 +14,10 @@ This profile is a work in progress...
 - SQL
 - Java
 - C#
-- Lua
 
 ### Traits
 - PCAD [Post Commit Anxiety Disorder]
+- OOD [Obsessive Optimization Disorder]
 <!--
 **5-pebbles/5-pebbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
