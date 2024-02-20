@@ -1,5 +1,5 @@
 ### Inventory
-- Linux
+- Linux (Arch BTW)
 - Neovim
 - Hurl
 - Docker
