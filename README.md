@@ -1,4 +1,22 @@
-### Inventory
+# Hello, I'm Owen 🍣 🌸
+
+> I can't decide if my favorite emoji is sushi or the sakura flower, so I just used both...
+
+I am a software developer and Eagle Scout. I started writing code at 13 and I have been obsessed ever since.
+
+[The Best Website Ever](https://motherfuckingwebsite.com/)
+
+&nbsp;
+
+<div align="center">
+
+### **I am currently broke & looking for a job more compelling than McDonald's.**
+
+**Please Hire Me**: [5-pebble@protonmail.com](mailto:5-pebble@protonmail.com) 🥺
+
+</div>
+
+### My Inventory
 - Linux (Arch BTW)
 - Neovim
 - Hurl
@@ -18,17 +36,3 @@
 ### Traits
 - PCAD [Post Commit Anxiety Disorder]
 - OOD [Obsessive Optimization Disorder]
-<!--
-**5-pebbles/5-pebbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
