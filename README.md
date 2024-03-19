@@ -16,22 +16,10 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 
 </div>
 
-### My Inventory
-- Linux (Arch BTW)
-- Neovim
-- Hurl
-- Docker
+### Technical Skills
+```Linux (Arch BTW)``` ```Rust``` ```Git``` ```Docker``` ```SQL (Sqlite Mainly)``` ```Github``` ```Lua``` ```Python``` ```Web Scrapping(more like botting...)``` ```HTML/CSS``` ```Shell Script``` ```Neovim``` ```JavaScript``` ```Java``` ```C#``` ```Docs & Testing```
 
-### Skills
-- Rust
-- Lua
-- Python
-- HTML/CSS
-- Shell Script
-- JavaScript
-- SQL
-- Java
-- C#
+&nbsp;
 
 ### Traits
 - PCAD [Post Commit Anxiety Disorder]
