@@ -4,8 +4,6 @@
 
 I am a software developer and Eagle Scout. I started writing code at 13 and I have been obsessed ever since.
 
-[The Best Website Ever](https://motherfuckingwebsite.com/)
-
 &nbsp;
 
 <div align="center">
@@ -26,3 +24,7 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 ### Traits
 - PCAD [Post Commit Anxiety Disorder]
 - OOD [Obsessive Optimization Disorder]
+
+&nbsp;
+
+[The Best Website Ever](https://motherfuckingwebsite.com/)
