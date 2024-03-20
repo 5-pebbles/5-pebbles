@@ -14,6 +14,8 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 
 **Please Hire Me**: [5-pebble@protonmail.com](mailto:5-pebble@protonmail.com) 🥺
 
+**Example Project (work in progress)**: [Tuna](https://github.com/5-pebbles/tuna) 🍣
+
 </div>
 
 ### Technical Skills
