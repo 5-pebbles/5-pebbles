@@ -17,7 +17,7 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 </div>
 
 ### Technical Skills
-```Linux (Arch BTW)``` ```Rust``` ```Git``` ```Docker``` ```SQL (Sqlite Mainly)``` ```Github``` ```Lua``` ```Python``` ```Web Scrapping(more like botting...)``` ```HTML/CSS``` ```Shell Script``` ```Neovim``` ```JavaScript``` ```Java``` ```C#``` ```Docs & Testing```
+```Linux (Arch BTW)``` ```Rust``` ```Git``` ```Docker``` ```SQL (Sqlite Mainly)``` ```Github``` ```Lua``` ```Python``` ```Web Scraping(more like botting...)``` ```HTML/CSS``` ```Shell Script``` ```Neovim``` ```JavaScript``` ```Java``` ```C#``` ```Docs & Testing```
 
 &nbsp;
 
