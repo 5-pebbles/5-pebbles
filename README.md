@@ -8,7 +8,7 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 
 <div align="center">
 
-### **I am currently broke & looking for a job more compelling than McDonald's.**
+### **I am currently broke & looking for a job.**
 
 **Please Hire Me**: [5-pebble@protonmail.com](mailto:5-pebble@protonmail.com) 🥺
 
@@ -16,15 +16,13 @@ I am a software developer and Eagle Scout. I started writing code at 13 and I ha
 
 </div>
 
+&nbsp;
+
 ### Technical Skills
 ```Linux (Arch BTW)``` ```Rust``` ```Git``` ```Docker``` ```SQL (Sqlite Mainly)``` ```Github``` ```Lua``` ```Python``` ```Web Scraping(more like botting...)``` ```HTML/CSS``` ```Shell Script``` ```Neovim``` ```JavaScript``` ```Java``` ```C#``` ```Docs & Testing```
 
 &nbsp;
 
 ### Traits
-- PCAD [Post Commit Anxiety Disorder]
-- OOD [Obsessive Optimization Disorder]
-
-&nbsp;
-
-[The Best Website Ever](https://motherfuckingwebsite.com/)
+- ```PCAD``` [Post Commit Anxiety Disorder]
+- ```OOD``` [Obsessive Optimization Disorder]
