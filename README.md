@@ -24,7 +24,7 @@ I am a self-taught developer who loves writing beautiful code. I wrote my first 
 
 - **SQL**: Sqlite
 
-- **JavaScript**: I hate it... but I am proficient
+- **JavaScript**: I don't like it... but I am proficient
 
 - **Java**: RuneScape Botting Projects
 
