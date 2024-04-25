@@ -16,18 +16,18 @@ I am a self-taught developer who loves writing beautiful code. I wrote my first 
 
 ## Languages 📚
 
-- **Rust**: I'm a cult member, it's my favorite language
+- **Rust**: It's My Favorite Language
 
-- **Lua**: Neovim configuration and developing plugins
+- **Lua**: Neovim Plugins
 
-- **Python**: Utility scripts and web scraping
+- **Python**: Utility Scripts and Web Scraping
 
-- **SQL**: I only wish trailing commas were allowed
+- **SQL**: Sqlite
 
 - **JavaScript**: I hate it... but I am proficient
 
-- **Java**: I've used it for RuneScape botting projects in the past
+- **Java**: RuneScape Botting Projects
 
-- **C#**: My first language, I used it for Unity game development
+- **C#**: Unity Game Development
 
 - **Markdown**: Notes, Documentation, The Universe, and Everything
