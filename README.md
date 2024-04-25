@@ -2,27 +2,32 @@
 
 > I can't decide if my favorite emoji is sushi or the sakura flower, so I just used both...
 
-I am a software developer and Eagle Scout. I started writing code at 13 and I have been obsessed ever since.
+I am a self-taught developer who loves writing beautiful code. I wrote my first program when I was 13, and I have been obsessed ever since.
 
-&nbsp;
+## Inventory 📦
 
-<div align="center">
+- **Operating System**: Arch Linux (BTW)
 
-### **I am currently broke & looking for a job.**
+- **Editor**: Neovim
 
-**Please Hire Me**: [5-pebble@protonmail.com](mailto:5-pebble@protonmail.com) 🥺
+- **VCS**: Git
 
-**Example Project (work in progress)**: [Tuna](https://github.com/5-pebbles/tuna) 🍣
+- **Containerization**: Docker
 
-</div>
+## Languages 📚
 
-&nbsp;
+- **Rust**: I'm a cult member, it's my favorite language
 
-### Technical Skills
-```Linux (Arch BTW)``` ```Rust``` ```Git``` ```Docker``` ```SQL (Sqlite Mainly)``` ```Github``` ```Lua``` ```Python``` ```Web Scraping(more like botting...)``` ```HTML/CSS``` ```Shell Script``` ```Neovim``` ```JavaScript``` ```Java``` ```C#``` ```Docs & Testing```
+- **Lua**: Neovim configuration and developing plugins
 
-&nbsp;
+- **Python**: Utility scripts and web scraping
 
-### Traits
-- ```PCAD``` [Post Commit Anxiety Disorder]
-- ```OOD``` [Obsessive Optimization Disorder]
+- **SQL**: I only wish trailing commas were allowed
+
+- **JavaScript**: I hate it... but I am proficient
+
+- **Java**: I've used it for RuneScape botting projects in the past
+
+- **C#**: My first language, I used it for Unity game development
+
+- **Markdown**: Notes, Documentation, The Universe, and Everything
