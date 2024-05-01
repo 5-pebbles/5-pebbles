@@ -4,9 +4,9 @@
 
 I am a self-taught developer who loves writing beautiful code. I wrote my first program when I was 13, and I have been obsessed ever since.
 
-## Inventory 📦
+## Tools 🛠️
 
-- **Operating System**: Arch Linux (BTW)
+- **Operating System**: Linux (Arch BTW)
 
 - **Editor**: Neovim
 
