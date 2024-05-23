@@ -6,9 +6,9 @@ I am a self-taught developer who loves writing beautiful code. I wrote my first 
 
 ## Tools 🛠️
 
-- **Operating System**: Linux (Arch BTW)
+- **Operating System**: Linux
 
-- **Editor**: Neovim
+- **Editor**: [Helix](https://github.com/helix-editor/helix)
 
 - **VCS**: Git
 
