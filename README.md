@@ -4,6 +4,9 @@
 
 I am a self-taught developer who loves writing beautiful code. I wrote my first program when I was 13, and I have been obsessed ever since.
 
+![5-pebbles's GitHub stats](https://github-readme-stats.vercel.app/api?username=5-pebbles&custom_title=5-Pebbles%20GitHub%20Stats&hide=contribs&show_icons=true&border_color=431c36&theme=radical)
+
+
 ## Tools 🛠️
 
 - **Operating System**: Linux
