@@ -1,34 +1,55 @@
-# Hello, I'm Owen 🍣 🌸
+### I am starting to see why these codebases (glibc, musl, etc...) are so hard to read as a beginner:
 
-> I can't decide if my favorite emoji is sushi or the sakura flower, so I just used both...
+In programming, we usually rely on abstraction to simplify our jobs. We make structures to contain and compartmentalize complex or dangerous code. However, at this level, those just obfuscate an already confusing system.
 
-I am a self-taught developer who loves writing beautiful code. I wrote my first program when I was 13, and I have been obsessed ever since.
+You start to find looking up definitions annoying; it's a null terminated list of elements; just treat it that way. On top of that, laziness works in that ideas favor:
 
+```rs
+pub(crate) const AT_NULL: usize = 0;
+pub(crate) const AT_PAGE_SIZE: usize = 6;
+pub(crate) const AT_BASE: usize = 7;
+pub(crate) const AT_ENTRY: usize = 9;
 
-## Tools 🛠️
+#[repr(C)]
+#[derive(Clone, Copy)]
+pub(crate) struct AuxiliaryVectorItem {
+    pub a_type: usize,
+    pub a_val: usize,
+}
 
-- **Operating System**: Linux
+#[derive(Clone, Copy)]
+pub(crate) struct AuxiliaryVectorIter(*const AuxiliaryVectorItem);
 
-- **Editor**: [Helix](https://github.com/helix-editor/helix)
+impl AuxiliaryVectorIter {
+    pub(crate) fn new(auxiliary_vector_pointer: *const AuxiliaryVectorItem) -> Self {
+        Self(auxiliary_vector_pointer)
+    }
 
-- **VCS**: Git
+    pub(crate) fn into_inner(self) -> *const AuxiliaryVectorItem {
+        self.0
+    }
+}
 
-- **Containerization**: Docker
+impl Iterator for AuxiliaryVectorIter {
+    type Item = AuxiliaryVectorItem;
 
-## Languages 📚
+    fn next(&mut self) -> Option<Self::Item> {
+        let this = unsafe { *self.0 };
+        if this.a_type == AT_NULL {
+            return None;
+        }
+        self.0 = unsafe { self.0.add(1) };
+        Some(this)
+    }
+}
+```
 
-- **Rust**: It's My Favorite Language
+The truth is you are only going to use that struct 3 or so times; why not just write:
 
-- **Lua**: Neovim Plugins
+```rs
+(0..).map(|i| unsafe { *auxiliary_vector_pointer.add(i) }).take_while(|t| t.a_type != AT_NULL)
+```
 
-- **Python**: Utility Scripts and Web Scraping
+The same goes for naming; is `AuxiliaryVector` really any more helpful than `auxv`? Many of these things you can only find in pdfs from the 90s; if you change the name to something more descriptive, you run the risk of no one being able to understand you.
 
-- **SQL**: Sqlite
-
-- **JavaScript**: I don't like it... but I am proficient
-
-- **Java**: RuneScape Botting Projects
-
-- **C#**: Unity Game Development
-
-- **Markdown**: Notes, Documentation, The Universe, and Everything
+Either way, what is a more descriptive name? It's just an assortment of possibly useful stuff passed to the linker by the Linux kernel... You are going to have to look it all up anyway.
